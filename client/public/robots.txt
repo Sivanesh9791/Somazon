@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://somazon.vercel.app/sitemap.xml
